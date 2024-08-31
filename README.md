@@ -4,6 +4,11 @@
 
 Weatherth is a weather application built using Streamlit. It fetches real-time weather data from the OpenWeatherMap API and provides a 5-day weather forecast. The app also includes geolocation features to automatically detect the user's location or allows manual city input for weather data. The app also displays the weather data and location on an interactive map.
 
+**Deployed App**
+
+You can access the live version of the app here: [Weatherth App](https://weatherapp-hbpujls6xbpwkoatgmavbt.streamlit.app/)
+
+
 **Features**
 
 Automatic Location Detection: Detects your current location using your IP address and fetches weather data accordingly.   
